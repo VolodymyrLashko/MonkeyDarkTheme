@@ -5,6 +5,11 @@
     <vendor>volodymyrlashko</vendor>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.rider</depends>      <!-- Rider -->
+    <depends>com.intellij.modules.webstorm</depends>   <!-- WebStorm -->
+    <depends>com.intellij.modules.python</depends>     <!-- PyCharm -->
+    <depends>com.intellij.modules.clion</depends>      <!-- CLion -->
+    <depends>com.intellij.modules.rust</depends>       <!-- RustRover (NEW) -->
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
