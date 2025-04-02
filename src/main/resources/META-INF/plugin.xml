@@ -9,7 +9,7 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.volodymyrlashko.monkeydarktheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.volodymyrlashko.monkeydarktheme.startup.MyProjectActivity" />
+        <bundledColorScheme id="Rider Dark" path="/colorSchemes/monkeydark" />
+        <themeProvider id="com.github.volodymyrlashko.monkeydark" path="/theme/monkeydark.theme.json"/>
     </extensions>
 </idea-plugin>
