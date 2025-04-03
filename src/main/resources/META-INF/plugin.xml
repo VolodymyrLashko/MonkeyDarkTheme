@@ -5,16 +5,11 @@
     <vendor>volodymyrlashko</vendor>
 
     <depends>com.intellij.modules.platform</depends>
-    <depends>com.intellij.modules.rider</depends>      <!-- Rider -->
-    <depends>com.intellij.modules.webstorm</depends>   <!-- WebStorm -->
-    <depends>com.intellij.modules.python</depends>     <!-- PyCharm -->
-    <depends>com.intellij.modules.clion</depends>      <!-- CLion -->
-    <depends>com.intellij.modules.rust</depends>       <!-- RustRover (NEW) -->
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme id="Rider Dark" path="/colorSchemes/monkeydark" />
+        <bundledColorScheme id="com.github.volodymyrlashko.monkeydark.colorscheme" path="/colorSchemes/monkeydark" />
         <themeProvider id="com.github.volodymyrlashko.monkeydark" path="/theme/monkeydark.theme.json"/>
     </extensions>
 </idea-plugin>
