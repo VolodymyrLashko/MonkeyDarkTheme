@@ -5,9 +5,8 @@
     <vendor>volodymyrlashko</vendor>
 
     <description><![CDATA[
-        Dark UI Theme based on JetBrains Rider dark theme&lt;br/&gt;
-        ]]>
-    </description>
+    Dark UI Theme based on JetBrains Rider dark theme&lt;br/&gt;
+    ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 
