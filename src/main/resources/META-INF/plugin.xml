@@ -4,6 +4,10 @@
     <name>Monkey Dark Theme</name>
     <vendor>volodymyrlashko</vendor>
 
+    <description>
+        Dark UI Theme based on JetBrains Rider dark theme&lt;br/&gt;
+    </description>
+
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
