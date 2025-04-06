@@ -5,7 +5,11 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
 <!-- Plugin description -->
-Dark UI Theme based on JetBrains Rider Dark&lt;br/&gt;
+**Monkey Dark Theme** is a sleek dark UI theme for JetBrains IDEs, based on JetBrains Rider Dark.
+
+- 🌓 Clean and distraction-free interface
+- 🎨 Custom dark editor color scheme
+- 🧘‍♂️ Perfect for late-night coding sessions
 <!-- Plugin description end -->
 
 ## Installation
